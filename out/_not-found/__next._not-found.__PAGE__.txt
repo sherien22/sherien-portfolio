@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0d30121qtwprj.js"
+4:"/_next/static/chunks/1ntfnrbh9ac_n.js"
+5:I[15796,["$3","$4"],"default"]
+6:I[94651,["$3","$4"],"default"]
+b:I[62735,["$3","$4"],""]
+c:I[92339,["$3","$4"],"default"]
+d:I[58997,["$3","$4"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[58997,["$3","$4"],"$11"]
+13:"MetadataBoundary"
+14:I[58997,["$3","$4"],"$13"]
+15:I[70431,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 sm:px-8 flex flex-col items-start gap-5 py-28","children":[["$","p",null,{"className":"font-mono text-xs font-medium uppercase tracking-[0.18em] text-primary","children":"404"}],["$","h1",null,{"className":"text-4xl font-semibold tracking-tight","children":"Page not found"}],["$","p",null,{"className":"max-w-md text-muted-foreground","children":"The page you are looking for does not exist or has been moved."}],["$","$Lb",null,{"href":"/","className":"inline-flex h-11 items-center justify-center gap-2 rounded-lg px-5 text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-3 focus-visible:ring-ring/50 [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90","children":[["$","$Lc",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left","aria-hidden":"true"}],"Back to home"]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#121418","media":"(prefers-color-scheme: dark)"}],["$","meta","3",{"name":"theme-color","content":"#fafbfc","media":"(prefers-color-scheme: light)"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sherine Zarif Farhan — Full-Stack Developer"}],["$","meta","1",{"name":"description","content":"Computer Science student at Assiut University and aspiring Full-Stack Developer building practical, user-friendly, and maintainable web applications."}],["$","link","2",{"rel":"author","href":"https://github.com/sherien22"}],["$","meta","3",{"name":"author","content":"Sherine Zarif Farhan"}],["$","meta","4",{"name":"keywords","content":"Sherine Zarif Farhan,Full-Stack Developer,C#,.NET,PHP,Laravel,Portfolio,Assiut University"}],["$","meta","5",{"property":"og:title","content":"Sherine Zarif Farhan — Full-Stack Developer"}],["$","meta","6",{"property":"og:description","content":"Computer Science student at Assiut University and aspiring Full-Stack Developer building practical, user-friendly, and maintainable web applications."}],["$","meta","7",{"property":"og:site_name","content":"Sherine Zarif Farhan"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Sherine Zarif Farhan — Full-Stack Developer"}],["$","meta","11",{"name":"twitter:description","content":"Computer Science student at Assiut University and aspiring Full-Stack Developer building practical, user-friendly, and maintainable web applications."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.1-hi7gljftwe3.png","sizes":"64x64","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1-hi7gljftwe3.png","sizes":"64x64","type":"image/png"}],["$","$L15","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"ljDVeJeCUSP3YD1t3-LKv"}
+f:null
+18:true
+9:300
+9:C
+17:0
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"

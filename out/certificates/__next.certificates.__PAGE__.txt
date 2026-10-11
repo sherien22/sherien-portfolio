@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0d30121qtwprj.js"
+4:"/_next/static/chunks/1ntfnrbh9ac_n.js"
+5:I[15796,["$3","$4"],"default"]
+6:I[94651,["$3","$4"],"default"]
+b:"/_next/static/chunks/3-1lbzr3z0bvd.js"
+c:"ImagePlaceholder"
+d:I[59339,["$3","$4","$b"],"$c"]
+e:I[58997,["$3","$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[58997,["$3","$4"],"$12"]
+14:"MetadataBoundary"
+15:I[58997,["$3","$4"],"$14"]
+16:I[70431,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"border-b border-border","children":["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 sm:px-8 flex flex-col gap-4 py-16 sm:py-20","children":[["$","p",null,{"className":"font-mono text-xs font-medium uppercase tracking-[0.18em] text-primary reveal","children":"Certificates"}],["$","h1",null,{"className":"reveal max-w-3xl text-balance text-4xl font-semibold tracking-tight sm:text-5xl","style":{"--delay":"60ms"},"children":"Certificates"}],["$","p",null,{"className":"reveal max-w-2xl text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg","style":{"--delay":"120ms"},"children":"Certificates from training and internship programs. Images and verification links are added as they become available."}],"$undefined"]}]}],["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 sm:px-8 py-16","children":["$","ul",null,{"className":"grid gap-6 md:grid-cols-2 lg:grid-cols-3","children":[["$","li","petra-internship",{"children":["$","article",null,{"className":"flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-card","children":[["$","div",null,{"className":"aspect-[4/3] border-b border-border","children":["$","$Ld",null,{"label":"Certificate image will be added soon"}]}],["$","div",null,{"className":"flex flex-1 flex-col gap-4 p-6","children":[["$","div",null,{"className":"flex flex-col gap-1","children":[["$","h2",null,{"className":"text-lg font-semibold tracking-tight","children":"Full-Stack .NET Internship"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":"Petra"}]]}],["$","dl",null,{"className":"flex flex-col gap-1 text-sm","children":["$","div",null,{"className":"flex gap-2","children":[["$","dt",null,{"className":"text-muted-foreground","children":"Issued:"}],["$","dd",null,{"children":"Date to be confirmed"}]]}]}],null]}]]}]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3-1lbzr3z0bvd.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+1:[["children",{"s":"certificates","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#121418","media":"(prefers-color-scheme: dark)"}],["$","meta","3",{"name":"theme-color","content":"#fafbfc","media":"(prefers-color-scheme: light)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Certificates | Sherine Zarif Farhan"}],["$","meta","1",{"name":"description","content":"Certificates earned by Sherine Zarif Farhan."}],["$","link","2",{"rel":"author","href":"https://github.com/sherien22"}],["$","meta","3",{"name":"author","content":"Sherine Zarif Farhan"}],["$","meta","4",{"name":"keywords","content":"Sherine Zarif Farhan,Full-Stack Developer,C#,.NET,PHP,Laravel,Portfolio,Assiut University"}],["$","meta","5",{"property":"og:title","content":"Sherine Zarif Farhan — Full-Stack Developer"}],["$","meta","6",{"property":"og:description","content":"Computer Science student at Assiut University and aspiring Full-Stack Developer building practical, user-friendly, and maintainable web applications."}],["$","meta","7",{"property":"og:site_name","content":"Sherine Zarif Farhan"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Sherine Zarif Farhan — Full-Stack Developer"}],["$","meta","11",{"name":"twitter:description","content":"Computer Science student at Assiut University and aspiring Full-Stack Developer building practical, user-friendly, and maintainable web applications."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.1-hi7gljftwe3.png","sizes":"64x64","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1-hi7gljftwe3.png","sizes":"64x64","type":"image/png"}],["$","$L16","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"ljDVeJeCUSP3YD1t3-LKv"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"
